@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Julián Ritter Gama
 
-<!--
-**JRG1988/JRG1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Comunicador Social especializado en **Análisis de Datos**. Certificación: Data Analytics (TripleTen Bootcamp).  
+💻 Transformo datos en insights visuales y accionables.  
+📊 Herramientas clave: Python · SQL · Tableau · pandas · matplotlib
 
-Here are some ideas to get you started:
+En este perfil encontrarás los proyectos prácticos que desarrollé en el bootcamp y otros ejercicios aplicados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Proyectos destacados
+
+1) **Análisis de ventas de videojuegos (Spring 12)**  
+Visualización interactiva desarrollada en Tableau.  
+Ver dashboard: https://public.tableau.com/app/profile/juli.n.ritter/viz/Proyecto_Spring_12/Dashboard1
+
+2) **Consultas SQL para análisis de negocio (Spring 8)**  
+Consultas para extracción y cálculo de métricas relevantes.
+
+3) **Análisis exploratorio y limpieza de datos (Spring 3 / 4)**  
+Proyectos en Python (pandas) con transformaciones y visualizaciones.
+
+---
+
+📫 Conecta conmigo:  
+LinkedIn — https://www.linkedin.com/in/juli%C3%A1n-ritter-gama
