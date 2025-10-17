@@ -1,6 +1,7 @@
-<div style="margin-top:-25px; margin-bottom:-10px;" align="center">
-  <img src="https://github.com/JRG1988/JRG1988/raw/main/WhatsApp%20Image%202025-10-14%20at%208.58.41%20PM.jpeg" alt="Banner de Julian Ritter Gama" width="100%">
-</div>
+<p align="center">
+  <img src="https://github.com/JRG1988/JRG1988/raw/main/banner_principal.jpeg" alt="Banner de Julian Ritter Gama" width="100%">
+</p>
+
 
 🎓 **Comunicador Social especializado en Análisis de Datos.**  
 Certificación: *Data Analytics (TripleTen Bootcamp)*.  
