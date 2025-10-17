@@ -1,3 +1,4 @@
+<h3 align="center">👋 ¡Bienvenido a mi perfil profesional!</h3>
 <p align="center">
   <img src="https://github.com/JRG1988/JRG1988/raw/main/banner_principal.jpeg" alt="Banner de Julian Ritter Gama" width="100%">
 </p>
