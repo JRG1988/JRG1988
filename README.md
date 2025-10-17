@@ -1,3 +1,5 @@
+​\text{![Banner de Julian Ritter Gama](https://github.com/JRG1988/JRG1988/raw/main/WhatsApp%20Image%202025-10-14%20at%208.58.41%20PM.jpeg)}
+
 # 👋 ¡Hola! Soy Julián Ritter Gama
 
 🎓 Comunicador Social especializado en **Análisis de Datos**. Certificación: Data Analytics (TripleTen Bootcamp).  
